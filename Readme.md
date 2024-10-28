@@ -132,4 +132,4 @@ Diagrams
 
 Sequence UML Diagram: <img width="1396" alt="Untitled" src="https://github.com/user-attachments/assets/6be74e2f-b756-4797-94ba-edd1836809f4">
 
-ER Diagram: <img width="1230" alt="Untitled (1)" src="https://github.com/user-attachments/assets/302877f5-8000-434a-9c87-dba519c89165"
+ER Diagram: <img width="1230" alt="Untitled (1)" src="https://github.com/user-attachments/assets/302877f5-8000-434a-9c87-dba519c89165">
